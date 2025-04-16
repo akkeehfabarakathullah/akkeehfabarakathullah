@@ -75,7 +75,7 @@ Deployment:   [ Heroku ]
 
 - 💌 akkeehfbarakath7@gmail.com
 - 🌐 [GitHub](https://github.com/akkeehfabarakathullah)
-- 🔗 [LinkedIn](https://linkedin.com/in/akkeehfabarakathullah) 
+- 🔗 [LinkedIn]([https://linkedin.com/in/akkeehfabarakathullah](https://www.linkedin.com/in/akkeehfa-barakathullah-308b112b1)) 
 
 > PS: My repositories? They're not just code — they’re works in progress. Feel free to fork, report, or pop in and say hi! 👋😄 I'm a little busy, but I promise I’ll respond — eventually, after a cup of coffee or two! ☕
 
