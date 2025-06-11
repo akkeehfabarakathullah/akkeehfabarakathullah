@@ -1,15 +1,15 @@
 # Hey there! 👋 I'm Akkeehfa Barakathullah
 
-> “Still learning. Still building. Still dreaming... and yeah, still making the occasional glorious mistake along the way.but hey! that’s how the magic happens!” 💫
+> “Still learning. Still building. Still dreaming... and yeah, still making the occasional glorious mistake along the way.but hey! that’s how the magic happens” 💫
 
-Welcome to my digital playground — where code gets creative, curiosity fuels the clicks, and coffee keeps the chaos running smoothly☕💻✨.
+Welcome to my digital playground where code gets creative, curiosity fuels the clicks, and coffee keeps the chaos running smoothly☕💻✨.
 
 ---
 
 ### 🧠 Who Am I?
 
 - 🎓 BIT student at UCSC (on a mission to master the tech universe 🚀)
-- 🔧 Self-taught coder, constantly tinkering with new ideas and side-projects
+- 🔧 Self taught coder, constantly tinkering with new ideas and side-projects
 - 🖤 Passionate about **AI, full-stack development, and turning thoughts into things**
 
 ---
@@ -18,7 +18,7 @@ Welcome to my digital playground — where code gets creative, curiosity fuels t
 
 - 🧠 AI features that make life smarter
 - 🌐 React-based apps with personality and purpose
-- 📱 User-friendly web experiences that people actually *enjoy* using
+- 📱 User friendly web experiences that people actually *enjoy* using
 
 ---
 
@@ -58,7 +58,7 @@ Deployment:   [ Heroku ]
 
 🔍 Seeking an Internship/Junior Developer role where I can grow, contribute to meaningful projects, and develop industry-level skills.
 
-🤖 Build impactful software that leverages AI and automation to solve real-world problems and enhance user experiences.
+🤖 Build impactful software that leverages AI and automation to solve real world problems and enhance user experiences.
 
 📚 Pursue advanced studies in Data Science or Software Engineering, expanding my technical knowledge and exploring innovative solutions.
 
@@ -66,7 +66,7 @@ Deployment:   [ Heroku ]
 
 🚀 Launch my own tech startup focusing on AI-powered solutions that can change how people live and work.
 
-🧠 Learn continuously — stay updated with the latest trends in web development, cloud computing, and emerging tech to always be at the cutting edge.
+🧠 Learn continuously, stay updated with the latest trends in web development, cloud computing, and emerging tech to always be at the cutting edge.
 
 
 ---
