@@ -77,7 +77,7 @@ Deployment:   [ Heroku ]
 - 🌐 [GitHub](https://github.com/akkeehfabarakathullah)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akkeehfa-barakathullah-308b112b1) 
 
-> PS: My repositories? They're not just code — they’re works in progress. Feel free to fork, report, or pop in and say hi! 👋😄 I'm a little busy, but I promise I’ll respond — eventually, after a cup of coffee or two! ☕
+> PS: My repositories? They're not just code, they’re works in progress. Feel free to fork, report, or pop in and say hi! 👋😄 I'm a little busy, but I promise I’ll respond, eventually, after a cup of coffee or two ☕
 
 ---
 ⭐ *Thanks for stopping by!* ⭐
