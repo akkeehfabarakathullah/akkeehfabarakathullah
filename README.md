@@ -73,7 +73,6 @@ Deployment:   [ Heroku ]
 
 ### 🌍 Let’s Link Up
 
-- 💌 akkeehfbarakath7@gmail.com
 - 🌐 [GitHub](https://github.com/akkeehfabarakathullah)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akkeehfa-barakathullah-308b112b1) 
 
